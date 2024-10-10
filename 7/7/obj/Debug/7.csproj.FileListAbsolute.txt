@@ -1,0 +1,12 @@
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\7\7\bin\Debug\7.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\7\7\obj\Debug\7.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\7\7\obj\Debug\_7.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\7\7\obj\Debug\_7.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\7\7\obj\Debug\7.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\7\7\bin\Debug\7.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\7\7\bin\Debug\7.pdb
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\7\7\obj\Debug\7.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\7\7\obj\Debug\7.pdb
+C:\Users\ASUS\Desktop\1erParcial_INF-317\7\7\bin\Debug\7.exe.config
+C:\Users\ASUS\Desktop\1erParcial_INF-317\7\7\obj\Debug\7.exe
+C:\Users\ASUS\Desktop\1erParcial_INF-317\7\7\obj\Debug\7.pdb
